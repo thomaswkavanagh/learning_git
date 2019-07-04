@@ -1,0 +1,4 @@
+Wales
+=================
+
+Wales is cool.
